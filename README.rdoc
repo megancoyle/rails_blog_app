@@ -1,3 +1,0 @@
-== README
-
-This is a blog app being built while following the railstutorial.org guide.
